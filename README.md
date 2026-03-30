@@ -1,2 +1,2 @@
-# gridflex-track2-heat-pump-explainability
-Solo portfolio project — Explainable Heat Pump Decisions. GridFlex Hackathon, Energy Systems Catapult.
+# Gridflex-ai-heat-pump-explainer
+Solo portfolio project — Explainable Heat Pump Decisions. GridFlex Hackathon, Energy Systems Catapult and Diverse AI.
